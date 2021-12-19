@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img align="centre" src="https://github.com/Kumar2390/Kumar2390/blob/master/Developer.gif"/>
+<img align="centre" src="https://github.com/Kumar2390/Kumar2390/Developer.gif"/>
 
 </div>
 
